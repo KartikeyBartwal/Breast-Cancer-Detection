@@ -1,3 +1,5 @@
+![sps](https://github.com/user-attachments/assets/73321386-1616-4780-9daa-a9aa93a2aaf2)
+
 # Breast Cancer Prediction Model
 
 This repository contains a machine learning model for predicting breast cancer, along with the associated data files, notebooks, and preprocessed datasets.
